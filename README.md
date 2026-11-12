@@ -6,8 +6,8 @@
 **Building Data-Driven Solutions, Intelligent AI Applications & End-to-End Machine Learning Systems**
 
 📍 Nigeria  
-📧 Email: [YOUR PROFESSIONAL EMAIL]  
-🔗 [LinkedIn](https://www.linkedin.com/in/balogun-ayobami-61527b360) | [GitHub](https://github.com/BalogunAyobamiEsther) | [Medium](https://medium.com/@balogunestheray)
+📧 Email: balogunayobami.dataml@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/balogun-ayobami-61527b360) | [Medium](https://medium.com/@balogunestheray)
 
 ---
 
