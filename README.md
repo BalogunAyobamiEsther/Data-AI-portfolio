@@ -142,9 +142,6 @@ These projects demonstrate my practical experience in developing machine learnin
 
 **Repository:** [ResearchMate AI](https://github.com/BalogunAyobamiEsther/ResearchMate-AI)
 
-**Live Backend:** [ResearchMate API](https://researchmate-ai-gnaj.onrender.com)
-
-**API Documentation:** [Explore API Documentation](https://researchmate-ai-gnaj.onrender.com/docs)
 
 ### Project Overview
 
