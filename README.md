@@ -251,8 +251,50 @@ Future development directions include improved conversational continuity, person
 **Responsible AI Consideration:** SafeSpace AI is intended as a non-clinical support platform. It does not replace professional mental healthcare, therapy, diagnosis, or emergency intervention.
 
 ---
+## PROJECT 3: Online Retail Customer Intelligence
+### Online Retail Project
 
-## PROJECT 3: ChurnGuard
+  
+**Category:** Data Science | Machine Learning | Customer Analytics  
+**Tools & Technologies:** Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Streamlit, Git, GitHub
+
+## Project Overview
+
+An end-to-end data science project focused on analysing retail transaction data to uncover sales patterns, understand customer purchasing behaviour, segment customers, and predict future purchase behaviour.
+
+Using the Online Retail II dataset (2009–2011), I transformed raw transaction data into actionable business insights and developed an interactive web application to make the findings accessible.
+
+## Key Contributions
+
+- Combined, cleaned, and explored retail transaction datasets.
+- Performed exploratory data analysis to uncover sales trends, product performance, and customer purchasing patterns.
+- Applied RFM (Recency, Frequency, and Monetary Value) analysis and K-Means clustering to identify four customer segments:
+  - High-Value Frequent Customers
+  - Regular Active Customers
+  - Low-Value Occasional Customers
+  - At-Risk Inactive Customers
+- Developed and evaluated Logistic Regression and Random Forest models to predict customer purchases within a 90-day period.
+- Evaluated model performance using precision, recall, F1-score, and ROC-AUC.
+- Deployed an interactive Streamlit application for exploring insights and making purchase predictions.
+
+## Key Results
+
+- Identified four distinct customer segments from 5,878 customers.
+- Achieved a ROC-AUC score of approximately 0.726 with the Random Forest model.
+- Developed an interactive application that presents analytical insights and customer purchase predictions.
+
+## Project Links
+
+- **Live Application:** [View Streamlit App](https://online-retail-customer-intelligence-egz5sbrolitnwnqnxurh6w.streamlit.app/)
+- **GitHub Repository:** [View Source Code](https://github.com/BalogunAyobamiEsther/online-retail-customer-intelligence)
+
+## Note
+
+The predictive models are based on historical transaction data (2009–2011) and demonstrate the modelling approach. Their performance has not been validated for present-day customer behaviour.
+
+
+
+## PROJECT 4: ChurnGuard
 
 ### Telco Customer Churn Prediction Application
 
